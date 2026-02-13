@@ -1,5 +1,6 @@
 # esp32-WLED-4ch-controller
-Hardware design for a 4 channel WLED controller with built in relays for power saving and level shifter for better signal integrity with long data cables.<br>
+Hardware design for a 4 channel WLED controller with built in relays for power saving and level shifter for better signal integrity with long data cables.<br><br>
+⚠️ Warning: Unfortunately, this release is not yet ready for production. There are still issues with the esp32 signal stability and the ESP module is not supported by WLED. I fully intend to complete this project once I have finished the other projects I am currently working on. ⚠️ <br>
 <br>![alt text](https://github.com/fellettigiacomo/esp32-WLED-4ch-controller/blob/main/board-render.png?raw=true)
 
 ## Manufacturing
